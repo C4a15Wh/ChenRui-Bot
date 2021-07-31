@@ -5,7 +5,7 @@
 https://c4a15wh.cn/index.php/archives/9/
 ## Todo List
 - [x] 基础的对话功能
-- [x] "关于"命令
+- [x] /about 命令
 - [x] 自言自语功能
 - [ ] 随机发送叔叔的表情
 - [ ] 随机发送叔叔的语音
